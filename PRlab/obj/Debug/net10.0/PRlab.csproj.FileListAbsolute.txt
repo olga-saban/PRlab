@@ -1,0 +1,14 @@
+/Users/olga/RiderProjects/PRlab/PRlab/bin/Debug/net10.0/PRlab
+/Users/olga/RiderProjects/PRlab/PRlab/bin/Debug/net10.0/PRlab.deps.json
+/Users/olga/RiderProjects/PRlab/PRlab/bin/Debug/net10.0/PRlab.runtimeconfig.json
+/Users/olga/RiderProjects/PRlab/PRlab/bin/Debug/net10.0/PRlab.dll
+/Users/olga/RiderProjects/PRlab/PRlab/bin/Debug/net10.0/PRlab.pdb
+/Users/olga/RiderProjects/PRlab/PRlab/obj/Debug/net10.0/PRlab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olga/RiderProjects/PRlab/PRlab/obj/Debug/net10.0/PRlab.AssemblyInfoInputs.cache
+/Users/olga/RiderProjects/PRlab/PRlab/obj/Debug/net10.0/PRlab.AssemblyInfo.cs
+/Users/olga/RiderProjects/PRlab/PRlab/obj/Debug/net10.0/PRlab.csproj.CoreCompileInputs.cache
+/Users/olga/RiderProjects/PRlab/PRlab/obj/Debug/net10.0/PRlab.dll
+/Users/olga/RiderProjects/PRlab/PRlab/obj/Debug/net10.0/refint/PRlab.dll
+/Users/olga/RiderProjects/PRlab/PRlab/obj/Debug/net10.0/PRlab.pdb
+/Users/olga/RiderProjects/PRlab/PRlab/obj/Debug/net10.0/PRlab.genruntimeconfig.cache
+/Users/olga/RiderProjects/PRlab/PRlab/obj/Debug/net10.0/ref/PRlab.dll

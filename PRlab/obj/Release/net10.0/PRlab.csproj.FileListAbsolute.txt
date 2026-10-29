@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\PRlab\PRlab\bin\Release\net10.0\PRlab.exe
+C:\Users\user\Desktop\PRlab\PRlab\bin\Release\net10.0\PRlab.deps.json
+C:\Users\user\Desktop\PRlab\PRlab\bin\Release\net10.0\PRlab.runtimeconfig.json
+C:\Users\user\Desktop\PRlab\PRlab\bin\Release\net10.0\PRlab.dll
+C:\Users\user\Desktop\PRlab\PRlab\bin\Release\net10.0\PRlab.pdb
+C:\Users\user\Desktop\PRlab\PRlab\obj\Release\net10.0\PRlab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PRlab\PRlab\obj\Release\net10.0\PRlab.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PRlab\PRlab\obj\Release\net10.0\PRlab.AssemblyInfo.cs
+C:\Users\user\Desktop\PRlab\PRlab\obj\Release\net10.0\PRlab.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PRlab\PRlab\obj\Release\net10.0\PRlab.dll
+C:\Users\user\Desktop\PRlab\PRlab\obj\Release\net10.0\refint\PRlab.dll
+C:\Users\user\Desktop\PRlab\PRlab\obj\Release\net10.0\PRlab.pdb
+C:\Users\user\Desktop\PRlab\PRlab\obj\Release\net10.0\PRlab.genruntimeconfig.cache
+C:\Users\user\Desktop\PRlab\PRlab\obj\Release\net10.0\ref\PRlab.dll
